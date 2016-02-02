@@ -1,0 +1,8 @@
+*.swp
+.idea
+.idea/*
+composer.lock
+vendor/*
+*.*~
+node_modules
+node_modules/*
